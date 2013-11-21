@@ -1,0 +1,4 @@
+source 'http://rubygems.org'
+
+gem 'cf'
+gem 'pseudo-console-cf-plugin', :path => "../"
